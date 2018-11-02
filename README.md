@@ -1,3 +1,3 @@
 # is633
 
-sql assignments from Dr. Chen's class
+sql assignments from class
